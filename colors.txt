@@ -1,0 +1,3 @@
+Background 1-red - rgba(237, 96, 68)
+Background 2-gray - rgba(23, 23, 23)
+Kurale font

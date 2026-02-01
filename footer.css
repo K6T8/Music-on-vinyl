@@ -1,0 +1,12 @@
+.block6{
+    background-color: rgba(23, 23, 23);
+    padding: 209px;
+    font-size: 64px;
+    color: white;
+}
+@media (orientation: portrait){
+    .block6{
+        font-size: 24px;
+        padding: 24px;
+    }
+}

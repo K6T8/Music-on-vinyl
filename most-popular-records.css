@@ -1,0 +1,27 @@
+.block4{
+    width: 100%;
+    background-color: rgba(23, 23, 23);
+    color: white;
+    padding-top: 66px;
+    padding-left: 43px;
+    padding-right: 43px;
+    padding-bottom: 59px;
+    h2{
+        font-size: 40px;
+        margin-bottom: 84px;
+    }
+    img{
+        height: 350px;
+        display: inline-block;
+        margin: 8.5px;
+    }
+}
+@media (orientation: portrait){
+    .block4{
+        img{
+            text-align: center;
+            width: 40%;
+            height: 40%;
+        }
+    }
+}

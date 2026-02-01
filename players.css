@@ -1,0 +1,23 @@
+.block2{
+    width: 100%;
+    background-color: rgba(23, 23, 23);
+    padding-top: 75px;
+    color: white;
+    h2{
+        font-size: 40px;
+    }
+    .players-card{
+        margin-top: 56px;
+        display: inline-block;
+        img{
+            height: 321px;
+        }
+        h3{
+            font-size: 32px;
+            margin-left: 98px;
+            margin-right: 98px;
+            margin-top: 56px;
+            margin-bottom: 56px;
+        }
+    }
+}
