@@ -5,7 +5,7 @@
     color: white;
     a{
         color: white;
-        text-decoration: 0;
+        text-decoration: underline;
     }
 }
 @media (orientation: portrait){
@@ -13,4 +13,5 @@
         font-size: 8px;
         padding: 8px;
     }
+
 }
