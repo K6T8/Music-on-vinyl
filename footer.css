@@ -3,9 +3,11 @@
     padding: 10%;
     font-size: 24px;
     text-align: left;
+    left: 0;
     color: white;
     a{
         color: white;
+        text-decoration: 0;
     }
 }
 @media (orientation: portrait){
